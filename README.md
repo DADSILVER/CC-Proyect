@@ -25,4 +25,4 @@ Proyecto de la asignatura de CC del Master de informática de la UGR
 
 
 
-[Configuración hito 0](https://github.com/DADSILVER/Clipper-TwichtBot/blob/main/Hito%200/Config.md)
+[Configuración](https://github.com/DADSILVER/Clipper-TwichtBot/blob/main/Hito%200/Config.md)
