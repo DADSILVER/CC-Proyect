@@ -1,8 +1,8 @@
 entidad: 
   - src/main.js
   - bot/botclipper.js
-  - administrardor/gestor.js
-  - administrardor/gestorComandos.js
-  - administrardor/comando.js
+  - administrador/gestor.js
+  - administrador/gestorComandos.js
+  - administrador/comando.js
   
 lenguaje: node_js
