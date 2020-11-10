@@ -1,0 +1,8 @@
+entidad: 
+  - src/main.js
+  - bot/botclipper.js
+  - administrardor/gestor.js
+  - administrardor/gestorComandos.js
+  - administrardor/comando.js
+  
+lenguaje: node_js
