@@ -1,0 +1,23 @@
+{
+  "name": "Clipper-TwichtBot",
+  "version": "1.0.0",
+  "description": "Proyecto de la asignatura de CC del Master de informática de la UGR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DADSILVER/Clipper-TwichtBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DADSILVER/Clipper-TwichtBot/issues"
+  },
+  "homepage": "https://github.com/DADSILVER/Clipper-TwichtBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
