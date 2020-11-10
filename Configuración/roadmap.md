@@ -24,11 +24,11 @@ En esta parte se ajustará las distintas opciones que tendraá el bot. Para ello
 
 **Historias de usuario relacionadas**
 
-* [HU-Hacer grabación](https://github.com/DADSILVER/Clipper-TwichtBot/issues/6)
+* [HU-Configurar grabación](https://github.com/DADSILVER/Clipper-TwichtBot/issues/6)
   * [Introducir palabra clave](https://github.com/DADSILVER/Clipper-TwichtBot/issues/5)
   * [Poner tiempo de grabación](https://github.com/DADSILVER/Clipper-TwichtBot/issues/18)
 
-* [Explicación de uso](https://github.com/DADSILVER/Clipper-TwichtBot/issues/7)
+* [HU-Creación de comandos personalizados](https://github.com/DADSILVER/Clipper-TwichtBot/issues/7)
 
 
 
